@@ -2,7 +2,7 @@
 
 # 👋 Saudações!
 
-Olá, meu nome é **Bruno Mayer**. 
+Olá, meu nome é **Bruno Mayer**, estou iniciando minha carreira como programador. 
 
 Atualmente sou estudante de **Ciência da Computação** na [CESAR School](https://www.cesar.school).
 ---
