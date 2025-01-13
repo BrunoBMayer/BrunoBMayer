@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**BrunoBMayer/BrunoBMayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Saudações!
 
-Here are some ideas to get you started:
+Olá, meu nome é **Bruno Mayer**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente sou estudante de **Ciência da Computação** na [CESAR School](https://www.cesar.school).
+---
+
+## 📚 Áreas de Estudo
+
+### 🌐 Linguagens de Programação
+![Python](https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white)
