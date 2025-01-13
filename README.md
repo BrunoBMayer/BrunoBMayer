@@ -7,9 +7,6 @@ Olá, meu nome é **Bruno Mayer**, estou iniciando minha carreira como programad
 Atualmente sou estudante de **Ciência da Computação** na [CESAR School](https://www.cesar.school).
 ---
 
-## 📚 Áreas de Estudo
-
-### 🌐 Linguagens de Programação
 ![Python](https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white)
