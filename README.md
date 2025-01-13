@@ -14,3 +14,5 @@ Atualmente sou estudante de **Ciência da Computação** na [CESAR School](https
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white)
+
+- 🌐 [**LinkedIn**](https://www.linkedin.com/in/bruno-mayer-9aa18328a/) 
